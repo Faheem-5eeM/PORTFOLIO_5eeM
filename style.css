@@ -1394,17 +1394,22 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-  background-image: url("https://github.com/jyotirmaya16/EXCEL-Data-Analysis/blob/main/crop.jpg?raw=true");
+  background-image: url("assets/img/ss2.png");
+  background-position: center;
 }
 .card[for="c2"] {
-  background-image: url("https://github.com/jyotirmaya16/EXCEL-Data-Analysis/blob/main/hr.jpg?raw=true");
+  background-image: url("assets/img/ss3.png");
+  background-position: center;
 }
 .card[for="c3"] {
-  background-image: url("https://github.com/jyotirmaya16/EXCEL-Data-Analysis/blob/main/train.jpg?raw=true");
+  background-image: url("assets/img/ss4.png");
+  background-position: center;
 }
 .card[for="c4"] {
-  background-image: url("https://github.com/jyotirmaya16/EXCEL-Data-Analysis/blob/main/road.jpg?raw=true");
+  background-image: url("assets/img/ss1.png");
+  background-position: center;
 }
+
 
 /* buttons showmore */
 button {
