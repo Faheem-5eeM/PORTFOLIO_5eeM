@@ -1396,18 +1396,22 @@ input:checked + label .description {
 .card[for="c1"] {
   background-image: url("assets/img/ss2.png");
   background-position: center;
+  cursor: pointer;
 }
 .card[for="c2"] {
   background-image: url("assets/img/ss3.png");
   background-position: center;
+  cursor: pointer;
 }
 .card[for="c3"] {
   background-image: url("assets/img/ss4.png");
   background-position: center;
+  cursor: pointer;
 }
 .card[for="c4"] {
   background-image: url("assets/img/ss1.png");
   background-position: center;
+  cursor: pointer;
 }
 
 
