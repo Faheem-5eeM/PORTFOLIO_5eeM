@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 /*===== typing effect ======*/
 var typingEffect = new Typed(".typedText", {
-  strings: ["Developer"],
+  strings: ["Fresher"],
   loop: true,
   typeSpeed: 100,
   backSpeed: 80,
